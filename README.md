@@ -13,7 +13,7 @@ git clone https://github.com/abhigyan2311/tv-script-generator.git
 cd tv-script-generator
 conda env create -f environment.yml
 conda activate deeplearning
-jupyter notebook classifier.ipynb
+jupyter notebook dlnd_tv_script_generation.ipynb
 ```
 
 ## Features
