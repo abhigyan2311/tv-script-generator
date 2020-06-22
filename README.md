@@ -1,7 +1,7 @@
 # TV Script Generator
 > Recurrent Neural Networks
 
-This project aims at successfully generating tv scripts using recurrent neural networks
+This project aims at successfully generating `fake` tv scripts using recurrent neural networks
 
 ## Installing / Getting started
 
@@ -19,9 +19,19 @@ jupyter notebook dlnd_tv_script_generation.ipynb
 ## Features
 
 The classifier notebook implements the following methods:
-* To add
+* Successfully generates fake tv scripts bases on [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) tv series scripts
 
-The best accuracy was achieved using - of -%.
+The best minimum loss was achieved of 3.19.
+
+## Hyperparameters
+
+* Sequence Length - 200
+* Batch Size - 128
+* Number of epochs - 10
+* Learning Rate - 0.001
+* Embedding Dimension - 400
+* Hidden Dimension - 256
+* Number of RNN Layers - 2
 
 ## Contributing
 
