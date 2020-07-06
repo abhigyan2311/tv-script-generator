@@ -19,7 +19,7 @@ jupyter notebook dlnd_tv_script_generation.ipynb
 ## Features
 
 The classifier notebook implements the following methods:
-* Successfully generates fake tv scripts bases on [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) tv series scripts
+* Successfully generates fake tv scripts based on [Seinfeld](https://en.wikipedia.org/wiki/Seinfeld) tv series scripts
 
 The best minimum loss was achieved of 3.19.
 
